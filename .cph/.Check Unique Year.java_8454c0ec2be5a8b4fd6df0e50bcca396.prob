@@ -1,0 +1,1 @@
+{"name":"Local: Check Unique Year","url":"/home/ofk/CODE/Java/Check Unique Year.java","tests":[{"id":1708344364253,"input":"2014","output":"YES"},{"id":1708344381545,"input":"2003","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ofk/CODE/Java/Check Unique Year.java","group":"local","local":true}

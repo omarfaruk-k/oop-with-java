@@ -1,0 +1,1 @@
+{"name":"Local: prac","url":"/home/ofk/CODE/Java/prac.java","tests":[{"id":1708348042390,"input":"Hello\nhello","output":"Anagrams"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ofk/CODE/Java/prac.java","group":"local","local":true}

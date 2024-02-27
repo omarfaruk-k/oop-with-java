@@ -1,0 +1,1 @@
+{"name":"Local: cnt4","url":"/home/ofk/CODE/Java/cnt4.java","tests":[{"id":1709042680473,"input":"6\n15 25 35 45 55 65\n40","output":"45"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ofk/CODE/Java/cnt4.java","group":"local","local":true}
